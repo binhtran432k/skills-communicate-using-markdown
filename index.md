@@ -1,3 +1,5 @@
 # Changed index.md
 
-This is a demo for edit markdonw file.
+This is a demo for edit markdown file.
+
+![Image of Yaktocat (For demo)](https://octodex.github.com/images/yaktocat.png)
